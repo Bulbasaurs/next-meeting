@@ -43,7 +43,7 @@ This opens a browser window — sign in with your work Google account and approv
 ### 3. Get the code
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Bulbasaurs/next-meeting.git
 cd next-meeting
 ```
 
