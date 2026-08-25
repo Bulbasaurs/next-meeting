@@ -35,7 +35,7 @@ npm install -g @google/gws
 Then authenticate:
 
 ```bash
-gws auth login -s drive,sheets,calendar
+gws auth login -s calendar
 ```
 
 This opens a browser window — sign in with your work Google account and approve the requested permissions.
